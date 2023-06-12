@@ -39,7 +39,7 @@ I'm a programming student with a passion for web programming. My goal is to deve
 
 ## 🏆 Goals
 
-- 📖 Learn the basics of **Kotlin** programming language
+- 📖 Learn the basics of **Java** programming language
 - 📱 Build a simple website using **Javascript** and **jQuary**.
 - 🚀 Gain experience in developing full-stack website using **React** and **Node.js**.
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
