@@ -1,5 +1,5 @@
 <!-- Banner 20232A -->
-![Banner-dark-mode](https://i.ibb.co/nwtP6Wk/dark.png)
+![Banner-dark-mode](https://i.ibb.co/nRW1QJ2/dark.png)
 
 
 <p align="center">
