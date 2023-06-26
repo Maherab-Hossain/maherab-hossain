@@ -3,7 +3,7 @@
 
 
 <p align="center">
-I'm a programming student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly website that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
+I'm a programming student with a passion for web programming. My goal is to develop a scalable, maintainable, and user-friendly website that provides a seamless user experience. I am constantly learning and experimenting with new technologies and frameworks to find the best solutions to the problems at hand. 
 </p>
 
 ##
