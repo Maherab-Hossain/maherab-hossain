@@ -58,16 +58,22 @@ I'm a programming student with a passion for web programming. My goal is to deve
 
 <!-- my languages section starts here  -->
 
-### 📶 Languages:
+## 📶 Languages:
 
 - Bangla: Native 
 - English: Intermediate
 - Hindi : Intermediate
 - Portugues: Basic
-- Spanish: Basic 
+- Spanish: Basic
+<!-- my languages section ends here  -->
+## 🚴 Sports / Game / Activities / Hobby:
+
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton, 🏐 Volleyball
+- 🏃‍♂️ Running, 🚶‍♂️ Walking, 👨‍💻Programming 
+- ✈️ Travelling
   <br />
 
-<!-- my languages section ends here  -->
+
 
 <br>
 
@@ -107,8 +113,11 @@ I'm a programming student with a passion for web programming. My goal is to deve
 <br>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">&nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">&nbsp;
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="Javascript">&nbsp;
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS">&nbsp;
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery">&nbsp;
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap">&nbsp;
+<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&amp;logo=WordPress&amp;logoColor=white" alt="WordPress">&nbsp;
 </details>
 
 
@@ -130,6 +139,7 @@ I'm a programming student with a passion for web programming. My goal is to deve
  <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&amp;logo=sketch&amp;logoColor=black" alt="Sketch">&nbsp;
   <br>
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma">&nbsp;
+ <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&amp;logo=framer&amp;logoColor=blue" alt="Framer">&nbsp;
  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva">&nbsp;
  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white" alt="Adobe Photoshop">&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
