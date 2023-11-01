@@ -19,13 +19,13 @@ I'm a programming student with a passion for web programming. My goal is to deve
 
 
 
-- 🔭 I’m currently studying on becoming a Front-end Developer.
+- 🔭 I’m currently studying to become a Front-end Developer.
 
 - 🌱 I’m currently learning Javascript.
 
 - 🔍 Take a look at my projects on  [**Frontend Mentor**](https://www.frontendmentor.io/profile/Maherab-Hossain)!.
 
-- 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/maherbhossain/)
+- 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/maherabhossain/)
 
 - 💬 Ask me about HTML and CSS.
 
@@ -56,8 +56,18 @@ I'm a programming student with a passion for web programming. My goal is to deve
 - 🎉 I have successfully completed some projects on Frontend Mentor/Github and shared my code with others.
 - 🤝 I have provided feedback on projects on Frontend Mentor website and other platforms.
 
+<!-- my languages section starts here  -->
 
-#
+### 📶 Languages:
+
+- Bangla: Native 
+- English: Intermediate
+- Hindi : Intermediate
+- Portugues: Basic
+- Spanish: Basic 
+  <br />
+
+<!-- my languages section ends here  -->
 
 <br>
 
@@ -65,9 +75,9 @@ I'm a programming student with a passion for web programming. My goal is to deve
 
 <div align = "center">
     
-[![Gmail: Maherab Hossain](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maherabhossain623@gmail.com)](mailto:maherabhossain623@gmail.com)&nbsp;
+[![Gmail: Maherab Hossain](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maherabhossain623@gmail.com)](mailto:maherabhossain@hotmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://https://www.frontendmentor.io/profile/Maherab-Hossain)](https://www.frontendmentor.io/profile/Maherab-Hossain)&nbsp;
-[![Linkedin: Maherab Hossain](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com//in/maherbhossain)](https://www.linkedin.com//in/maherbhossain)
+[![Linkedin: Maherab Hossain](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com//in/maherbhossain)](https://www.linkedin.com//in/maherabhossain)
   <br>  <br>
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/maherb_hossain)&nbsp;
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Maherab-Hossain-7)&nbsp;
