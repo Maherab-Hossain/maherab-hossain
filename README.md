@@ -8,8 +8,9 @@ I'm a programming student with a passion for web programming. My goal is to deve
 
 ##
 
-<br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d9b1d46433dc957c6ca73bd0a2b0d5237c0a3b2ef3c001e59a1c7b6de230cfca/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73686f757261622d646576266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/d9b1d46433dc957c6ca73bd0a2b0d5237c0a3b2ef3c001e59a1c7b6de230cfca/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73686f757261622d646576266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="maherab-hossain" data-canonical-src="https://komarev.com/ghpvc/?username=maherab-hossain&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
+<be>
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/36c6f9474aeb3060d558014cd85b0c9d004191995440d382851531655173be83/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73686f757261622d646576266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/36c6f9474aeb3060d558014cd85b0c9d004191995440d382851531655173be83/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73686f757261622d646576266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="maherab-hossain" data-canonical-src="https://komarev.com/ghpvc/?username=maherab-hossain&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
+
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
