@@ -27,7 +27,7 @@ I'm a programming student with a passion for web programming. My goal is to deve
 
 - 🌱 I’m currently learning Javascript.
 
-- 🔍 Take a look at my projects on  [**Portfolio**](https://dev-maherabhossain.pantheonsite.io/)!.
+- 🔍 Take a look at my projects on  [**Portfolio**](https://dev-maherabhossain.pantheonsite.io/)
 
 - 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/maherabhossain/)
 
