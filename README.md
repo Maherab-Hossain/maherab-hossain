@@ -6,6 +6,8 @@
 I'm a programming student with a passion for web programming. My goal is to develop a scalable, maintainable, and user-friendly website that provides a seamless user experience. I am constantly learning and experimenting with new technologies and frameworks to find the best solutions to the problems at hand. 
 </p>
 
+<p align="center">A Front End Web Developer from Bangladesh📍</p>
+
 ##
 
 <be>
@@ -25,11 +27,11 @@ I'm a programming student with a passion for web programming. My goal is to deve
 
 - 🌱 I’m currently learning Javascript.
 
-- 🔍 Take a look at my projects on  [**Frontend Mentor**](https://www.frontendmentor.io/profile/Maherab-Hossain)!.
+- 🔍 Take a look at my projects on  [**Portfolio**](https://dev-maherabhossain.pantheonsite.io/)!.
 
 - 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/maherabhossain/)
 
-- 💬 Ask me about HTML and CSS.
+- 💬 Ask me about CSS and Tailwind.
 
 - 🤝 I’m looking for help in learning about Accessible Websites.
 
