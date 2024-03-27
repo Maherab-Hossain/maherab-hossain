@@ -3,7 +3,7 @@
 
 
 <p align="center">
-I'm a programming student with a passion for web programming. My goal is to develop a scalable, maintainable, and user-friendly website that provides a seamless user experience. I am constantly learning and experimenting with new technologies and frameworks to find the best solutions to the problems at hand. 
+I'm a Computer Science student with a passion for web programming. My goal is to develop a scalable, maintainable, and user-friendly website that provides a seamless user experience. I am constantly learning and experimenting with new technologies and frameworks to find the best solutions to the problems at hand.
 </p>
 
 <p align="center">A Front End Web Developer from Bangladesh📍</p>
@@ -121,6 +121,7 @@ I'm a programming student with a passion for web programming. My goal is to deve
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS">&nbsp;
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery">&nbsp;
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap">&nbsp;
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS">&nbsp;
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&amp;logo=WordPress&amp;logoColor=white" alt="WordPress">&nbsp;
 </details>
 
