@@ -1,5 +1,6 @@
 <!-- Banner 20232A -->
-![Banner-dark-mode](https://i.ibb.co/nRW1QJ2/dark.png)
+![Banner-dark-mode](https://github.com/Maherab-Hossain/maherab-hossain/assets/109972853/9db30f6d-90f7-4529-8441-4f110eb1c5b6)
+
 
 
 <p align="center">
