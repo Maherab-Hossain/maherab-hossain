@@ -1,6 +1,7 @@
 <!-- Banner 20232A -->
-![Banner-dark-mode](https://github.com/Maherab-Hossain/maherab-hossain/assets/109972853/9db30f6d-90f7-4529-8441-4f110eb1c5b6)
+<h1 align="center">🖥️ Tech Explorer Building Digital Worlds 🌍</h1>
 
+![Banner-dark-mode](https://github.com/Maherab-Hossain/maherab-hossain/assets/109972853/9db30f6d-90f7-4529-8441-4f110eb1c5b6)
 
 
 <p align="center">
@@ -12,6 +13,7 @@ I'm a Computer Science student with a passion for web programming. My goal is to
 ##
 
 <be>
+  <h3 align="center"> 💠 Transforming Ideas into Digital Reality 💠 </h3>
 <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/36c6f9474aeb3060d558014cd85b0c9d004191995440d382851531655173be83/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73686f757261622d646576266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/36c6f9474aeb3060d558014cd85b0c9d004191995440d382851531655173be83/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73686f757261622d646576266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="maherab-hossain" data-canonical-src="https://komarev.com/ghpvc/?username=maherab-hossain&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
 
@@ -40,6 +42,17 @@ I'm a Computer Science student with a passion for web programming. My goal is to
 
 
 <br>
+
+<h2 align="center">📫 Get in Touch</h2>
+
+<div align = "center">
+    
+[![Gmail: Maherab Hossain](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maherabhossain623@gmail.com)](mailto:maherabhossain.me@gmail.com)&nbsp;
+[![Linkedin: Maherab Hossain](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com//in/maherbhossain)](https://www.linkedin.com//in/maherabhossain)
+  <br>  <br>
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/maherb_hossain)&nbsp;
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Maherab-Hossain-7)&nbsp;
+</div>
 <br>
 
 ## 🏆 Goals
@@ -78,26 +91,9 @@ I'm a Computer Science student with a passion for web programming. My goal is to
 - ✈️ Travelling
   <br />
 
-
-
-<br>
-
-<h2 align="center">📫 Connect with me</h2>
-
-<div align = "center">
-    
-[![Gmail: Maherab Hossain](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maherabhossain623@gmail.com)](mailto:maherabhossain@hotmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://https://www.frontendmentor.io/profile/Maherab-Hossain)](https://www.frontendmentor.io/profile/Maherab-Hossain)&nbsp;
-[![Linkedin: Maherab Hossain](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com//in/maherbhossain)](https://www.linkedin.com//in/maherabhossain)
-  <br>  <br>
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/maherb_hossain)&nbsp;
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Maherab-Hossain-7)&nbsp;
-
-  
-</div>
-
 <br>
 <h2 align="center">📊 Github Stats</h2>
+
 
 <div align = "center">
 
