@@ -24,7 +24,7 @@ I'm a Computer Science student with a passion for web programming. My goal is to
 
 
 
-- 🔭 I’m currently working on Front-end Developer.
+- 🔭 I’m currently working on Front-end Development.
 
 - 🌱 I’m currently learning "C".
 
