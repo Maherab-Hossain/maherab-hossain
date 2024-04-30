@@ -24,19 +24,19 @@ I'm a Computer Science student with a passion for web programming. My goal is to
 
 
 
-- 🔭 I’m currently studying to become a Front-end Developer.
+- 🔭 I’m currently working on Front-end Developer.
 
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning "C".
 
 - 🔍 Take a look at my projects on  [**Portfolio**](https://dev-maherabhossain.pantheonsite.io/)
 
 - 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/maherabhossain/)
 
-- 💬 Ask me about CSS and Tailwind.
+- 💬 Ask me about JavaScript and Tailwind.
 
-- 🤝 I’m looking for help in learning about Accessible Websites.
+- 🤝 I'm seeking assistance to learn more about problem-solving.
 
-- 👯 I’m looking to collaborate on the front end developing new open-source projects.
+- 👯 I’m looking to collaborate on the front end web developing new open-source projects.
 
 
 <br>
@@ -44,11 +44,11 @@ I'm a Computer Science student with a passion for web programming. My goal is to
 
 ## 🏆 Goals
 
-- 📖 Learn the basics of **Java** programming language
+- 📖 Learn the basics of **C** **Java** programming language
 - 📱 Build a simple website using **Javascript** and **jQuary**.
 - 🚀 Gain experience in developing full-stack website using **React** and **Node.js**.
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
-- 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+- 🎨 I would like to learn new techniques and tools that can help me enhance my skills.
 
 ## 🎯 Future Goals
 
