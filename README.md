@@ -55,24 +55,20 @@ I'm a Computer Science student with a passion for web programming. My goal is to
 </div>
 <br>
 
-## 🏆 Goals
+## 🎯 Goals
 
-- 📖 Learn the basics of **C**, **Java** programming language
-- 📱 Build a simple website using **Javascript** and **jQuary**.
-- 🚀 Gain experience in developing full-stack website using **React** and **Node.js**.
+- 🚀 My goal is to continuously grow and contribute to the IT field by integrating innovative technologies with business strategies to deliver outstanding results. 
+- 🧠 Share my knowledge and experience by teaching and mentoring others in the tech community.
+- 📖 Gain experience in developing full-stack website using **React** and **Node.js**.
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
 - 🎨 I would like to learn new techniques and tools that can help me enhance my skills.
 
-## 🎯 Future Goals
-
-- 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
-- 🧠 Study the fundamentals of **Artificial Intelligence** and its various subfields.
-- 🤖 Build a project that demonstrates my knowledge of **AI** and **machine learning**.
 
 ## 📈 Achievements
 
-- 🎉 I have successfully completed some projects on Frontend Mentor/Github and shared my code with others.
-- 🤝 I have provided feedback on projects on Frontend Mentor website and other platforms.
+- 🤝 Successfully created visually stunning and responsive websites, ensuring our clients an exceptional user experience, and high levels of satisfaction.
+- 🤝 Optimized website performance, achieving significantly reduced load times and improved user 
+   satisfaction.
 
 <!-- my languages section starts here  -->
 
